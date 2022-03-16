@@ -1,0 +1,2 @@
+2022-03-11 08:42:32,159 DEBUG [main] cmn.LoggerManager (OlympicDao.java:35)     - 파일 읽기 성공
+2022-03-11 08:42:32,167 DEBUG [main] cmn.LoggerManager (OlympicDao02.java:36)     - 파일 읽기 성공
